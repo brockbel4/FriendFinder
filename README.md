@@ -11,3 +11,5 @@ Then you will hit submit and it will tell you your closest match based on answer
 After this it will also store the data in another page that you can access using the API friends link on the home page
 
 I apologize for the lack of the readme file I was trying to make it fancy but my screenshotting software is crashing prior to taking a screenshot so I am unable to use images. I also tried ScreenCastify and made a video, edited it, all to find out it had to be a GIF and was too long. I apologize, there are instructions that is the best I could do for the time being.
+
+Link to the live site: https://lit-temple-21502.herokuapp.com/
